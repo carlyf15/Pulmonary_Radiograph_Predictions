@@ -11,7 +11,7 @@ This project sought to use patient radiograph images to create an algrorithm tha
 
 1. Pulmonary_Predictions: [Notebook](https://github.com/carlyf15/Pulmonary_Radiograph_Predictions/blob/master/pulmonary_predictions%20.ipynb) contains EDA, modeling, and validation of algrothim
 
-2. Pulmonary_Radiograph_Predictions: Non-technical [slidedeck](https://github.com/carlyf15/Pulmonary_Radiograph_Predictions/blob/master/Pulmonary_Radiograph_Predictions.pdf).
+2. Pulmonary_Radiograph_Predictions: Non-technical [slidedeck](https://github.com/carlyf15/Pulmonary_Radiograph_Predictions/blob/master/presentation.pdf).
 
 ## Methodology
 
@@ -51,5 +51,13 @@ With a model that can gives us 91% accuracy, 96% sensitivity, and a false negati
 
 ## Further Recommendations
 
-Hire and create a task force to evaluate hospital diagnosis processes and begin addressing the disease processes that are most often affected by poor diagnosis processes.
+1. Repeat this study on a similar population to ensure repeatability
+
+2. Repeat this study on adult imaging
+
+3. Invest in evaluation of other diagnosis standards and creation of models which would improve them.
+
+## Self Analysis
+
+There are a few moments that I should've spent more time creating a for loop at the beginning of the project however I was fairly consumed by learning the Kaggle notebook protocol and extracting the data differently. I also struggle to find places to use functions - I wanted to include a docstring on this project but didn't create a function anywhere.
 
