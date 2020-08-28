@@ -9,7 +9,7 @@ This project sought to use patient radiograph images to create an algrorithm tha
 
 ## Navigating the Repo
 
-1. Pulmonary_Predictions_Real: Notebook contains EDA, modeling, and validation of algrothim
+1. Pulmonary_Predictions: [Notebook](https://github.com/carlyf15/Pulmonary_Radiograph_Predictions/blob/master/pulmonary_predictions%20.ipynb) contains EDA, modeling, and validation of algrothim
 2. Slidedeck: Nontechnical presentation
 
 ## Methodology
