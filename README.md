@@ -1,5 +1,4 @@
-# Pulmonary Radiograph Screenings
-## Improving Healthcare Efficiency
+# Pulmonary Radiograph Screenings: Improving Efficiency & Accuracy in Healthcare Diagnosis
 ![X_ray](x_ray.jpg)
 
 ## Introduction
