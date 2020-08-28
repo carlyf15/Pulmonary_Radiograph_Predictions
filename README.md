@@ -10,7 +10,8 @@ This project sought to use patient radiograph images to create an algrorithm tha
 ## Navigating the Repo
 
 1. Pulmonary_Predictions: [Notebook](https://github.com/carlyf15/Pulmonary_Radiograph_Predictions/blob/master/pulmonary_predictions%20.ipynb) contains EDA, modeling, and validation of algrothim
-2. Slidedeck: Nontechnical presentation
+
+2. Pulmonary_Radiograph_Predictions: Non-technical [slidedeck](https://github.com/carlyf15/Pulmonary_Radiograph_Predictions/blob/master/Pulmonary_Radiograph_Predictions.pdf).
 
 ## Methodology
 
@@ -42,7 +43,7 @@ False Positive Rate: 6.2%
 
 False Negatibe Rate: 2.4%
 
-For further explanation of permance measures and how they're used, please visit this [blog post](https://www.the-wandering-scientist.com/post/performance-evaluation-measures-for-dummies).
+For further explanation of performance measures and how they're used, please visit this [blog post](https://www.the-wandering-scientist.com/post/performance-evaluation-measures-for-dummies).
 
 ## Conclusion
 
