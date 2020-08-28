@@ -16,7 +16,7 @@ This project sought to use patient radiograph images to create an algrorithm tha
 
 Dataset:
 
-The dataset was derived from a Kaggle competition. You can find the competition and further information cocnerning this dataset [here](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+The dataset was derived from a Kaggle competition. You can find the competition and further information cocnerning this dataset [here](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
 
 A convoluted nerual network was used to derive the algorithm.
 
@@ -42,7 +42,7 @@ False Positive Rate: 6.2%
 
 False Negatibe Rate: 2.4%
 
-For further explanation of permance measures and how they're used, please visit this blog post.
+For further explanation of permance measures and how they're used, please visit this [blog post](https://www.the-wandering-scientist.com/post/performance-evaluation-measures-for-dummies).
 
 ## Conclusion
 
