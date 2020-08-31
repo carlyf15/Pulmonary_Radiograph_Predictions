@@ -3,13 +3,13 @@
 
 ## Introduction
 
-Never more than now have medical practitioners been bogged down by a never ending list of tasks which keep them from doing the important work of interacting with patients and thinking criticall about intervetions. Any measure which would decrease time spent waiting around for results prior to intervetion is precious time for the patient, and an accurate measure has the potential to mitigate false diagnosis.
+Never more than now have medical practitioners been bogged down by a never ending list of tasks which keep them from doing the important work of interacting with patients and thinking critically about interventions. Any measure which would decrease time spent waiting around for results prior to intervention is precious time for the patient, and an accurate measure has the potential to mitigate false diagnosis.
 
-This project sought to use patient radiograph images to create an algrorithm that can reliably detect pneumonia in a chest xray. In one study a false negative rate of 11.4% was reported in manual readings of chest xrays for diagnosis of pneumonia - this is a problem at baseline but especially in the times of COVID-19. Pneumonia is one of the symptoms associated with more severe cases of COVID and early recognition and treatment could be the difference between life and death for a patient. Our intention is to mitigate these mistakes.
+This project sought to use patient radiograph images to create an algorithm that can reliably detect pneumonia in a chest xray. In one study a false negative rate of 11.4% was reported in manual readings of chest xrays for diagnosis of pneumonia - this is a problem at baseline but especially in the times of COVID-19. Pneumonia is one of the symptoms associated with more severe cases of COVID and early recognition and treatment could be the difference between life and death for a patient. Our intention is to mitigate these mistakes.
 
 ## Navigating the Repo
 
-1. Pulmonary_Predictions: [Notebook](https://github.com/carlyf15/Pulmonary_Radiograph_Predictions/blob/master/pulmonary_predictions%20.ipynb) contains EDA, modeling, and validation of algrothim
+1. Pulmonary_Predictions: [Notebook](https://github.com/carlyf15/Pulmonary_Radiograph_Predictions/blob/master/pulmonary_predictions%20.ipynb) contains EDA, modeling, and validation of algorithm
 
 2. Pulmonary_Radiograph_Predictions: Non-technical [slidedeck](https://github.com/carlyf15/Pulmonary_Radiograph_Predictions/blob/master/presentation.pdf).
 
@@ -17,9 +17,9 @@ This project sought to use patient radiograph images to create an algrorithm tha
 
 Dataset:
 
-The dataset was derived from a Kaggle competition. You can find the competition and further information cocnerning this dataset [here](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
+The dataset was derived from a Kaggle competition. You can find the competition and further information concerning this dataset [here](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
 
-A convoluted nerual network was used to derive the algorithm.
+A convoluted neural network was used to derive the algorithm.
 
 ## Limitations
 
@@ -41,7 +41,7 @@ Specificity: 83%
 
 False Positive Rate: 6.2%
 
-False Negatibe Rate: 2.4%
+False Negative Rate: 2.4%
 
 For further explanation of performance measures and how they're used, please visit this [blog post](https://www.the-wandering-scientist.com/post/performance-evaluation-measures-for-dummies).
 
